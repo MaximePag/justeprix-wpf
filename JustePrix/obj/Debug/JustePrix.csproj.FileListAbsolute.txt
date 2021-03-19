@@ -1,0 +1,15 @@
+C:\Users\Maxime\OneDrive\Bureau\dev\JustePrix\JustePrix\obj\Debug\JustePrix.csprojAssemblyReference.cache
+C:\Users\Maxime\OneDrive\Bureau\dev\JustePrix\JustePrix\obj\Debug\MainWindow.g.cs
+C:\Users\Maxime\OneDrive\Bureau\dev\JustePrix\JustePrix\obj\Debug\App.g.cs
+C:\Users\Maxime\OneDrive\Bureau\dev\JustePrix\JustePrix\obj\Debug\JustePrix_MarkupCompile.cache
+C:\Users\Maxime\OneDrive\Bureau\dev\JustePrix\JustePrix\obj\Debug\JustePrix_MarkupCompile.lref
+C:\Users\Maxime\OneDrive\Bureau\dev\JustePrix\JustePrix\bin\Debug\JustePrix.exe.config
+C:\Users\Maxime\OneDrive\Bureau\dev\JustePrix\JustePrix\bin\Debug\JustePrix.exe
+C:\Users\Maxime\OneDrive\Bureau\dev\JustePrix\JustePrix\bin\Debug\JustePrix.pdb
+C:\Users\Maxime\OneDrive\Bureau\dev\JustePrix\JustePrix\obj\Debug\MainWindow.baml
+C:\Users\Maxime\OneDrive\Bureau\dev\JustePrix\JustePrix\obj\Debug\JustePrix.g.resources
+C:\Users\Maxime\OneDrive\Bureau\dev\JustePrix\JustePrix\obj\Debug\JustePrix.Properties.Resources.resources
+C:\Users\Maxime\OneDrive\Bureau\dev\JustePrix\JustePrix\obj\Debug\JustePrix.csproj.GenerateResource.cache
+C:\Users\Maxime\OneDrive\Bureau\dev\JustePrix\JustePrix\obj\Debug\JustePrix.csproj.CoreCompileInputs.cache
+C:\Users\Maxime\OneDrive\Bureau\dev\JustePrix\JustePrix\obj\Debug\JustePrix.exe
+C:\Users\Maxime\OneDrive\Bureau\dev\JustePrix\JustePrix\obj\Debug\JustePrix.pdb
